@@ -1,27 +1,29 @@
 # Hi, I'm Salim
 
-I build software for a living, and these days that mostly means AI — adding LLM features, agents and MCP servers to products, and building the full web or mobile app around them.
-
-I run a small senior team at **[SR Web Studio](https://github.com/sr-web-studio)**. We're three people, and we do the building ourselves.
-
-For the last few years we worked as the embedded engineering team for RebelsLab (Netherlands) and Zephyr Events (Spain) — their in-house developers, on a fixed monthly basis. Through them we've delivered work for clients like Intuit, University of Wollongong, ACU, Notre Dame Australia, Constellar and BW Events, among many others.
+I'm a full stack and AI developer and the founder of [SR Web Studio](https://github.com/sr-web-studio). I write the code myself. On bigger jobs, my small team of three helps out.
 
 ## What I work on
 
-- **AI** — LLM integration (Anthropic, OpenAI, Gemini, Cloudflare Workers AI), agents, MCP servers, RAG, chatbots, automation
-- **Web** — React, Next.js, Vue, Nuxt, Svelte/SvelteKit, TypeScript, Tailwind
-- **Backend** — Node.js, NestJS, Hono, REST and GraphQL
-- **Mobile** — cross-platform with Capacitor
-- **Cloud** — Cloudflare (Workers, D1, R2, Queues), AWS, DigitalOcean, Docker, Kubernetes
+- **Swoogo**: event websites, custom JavaScript and Twig, registration emails, webhooks, API integrations and event migration
+- **Web apps and backends**: dashboards, admin panels, APIs and MVPs with TypeScript, Node or Bun, SvelteKit, Next.js or Nuxt, and Postgres
+- **AI features**: LLM APIs (Anthropic, OpenAI, Gemini), agents and MCP servers, built into web apps
+- **Vibe-coded apps**: finishing, fixing and deploying apps built with Lovable, Bolt or Cursor
+- **three.js**: interactive 3D landing pages, product viewers and configurators
+- **Blender**: 3D modelling, animation, small games, and video where AI drives Blender under my direction
 
-We work in whatever stack you already use and deploy to your own infrastructure.
+Most of my client work is private. Since 2020 my team has worked as the remote developers for RebelsLab (Netherlands), Zephyr Events (Spain) and now Uniloop (Australia).
 
-## Contact
+## Open source
 
-- [SR Web Studio](https://srwebstudio.com)
-- [GitHub org](https://github.com/sr-web-studio)
-- [LinkedIn](https://www.linkedin.com/in/salimranahere/)
-- [Fiverr](https://www.fiverr.com/salim4369)
-- [Upwork](https://www.upwork.com/freelancers/mdsalimrana3)
+- [opencode-vscode](https://github.com/sr-web-studio/opencode-vscode): unofficial VS Code client for OpenCode, with sessions that live on your OpenCode server
+- [grok-build-unofficial](https://github.com/sr-web-studio/grok-build-unofficial): unofficial VS Code chat UI for the Grok Build CLI
 
-If you're thinking about adding AI to your product, building something new, or bringing on a senior team that can get it done, feel free to reach out. I'm happy to talk it through.
+## Demos (concept work)
+
+- [Aura One](https://3d-landing.srwebstudio.com): 3D headphone landing page
+- [Nord & Oak](https://3d-configurator.srwebstudio.com): 3D armchair configurator
+- [Halden Roam](https://3d-exploded-view.srwebstudio.com): 3D exploded view of a speaker
+
+## Elsewhere
+
+[srwebstudio.com](https://srwebstudio.com) · [LinkedIn](https://www.linkedin.com/in/salimranahere/) · [Fiverr](https://www.fiverr.com/salim4369) · [Upwork](https://www.upwork.com/freelancers/~01f8a6f45db9a5960c) · [Contra](https://contra.com/ranasaliminfo)
